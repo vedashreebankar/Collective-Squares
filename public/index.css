@@ -1,0 +1,28 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	margin:auto;
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+	overflow:hidden;
+	background-color: black;
+}
+
+
+
+.animal{
+display: inline-block; 
+margin: 20px;
+position:absolute;
+top:100px;
+left:100px;
+float: left;
+
+}
+
+/*.animal img{
+	width:25%, 200px;
+}
+*/
